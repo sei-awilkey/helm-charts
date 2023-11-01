@@ -81,4 +81,8 @@ tolerations: []
 
 affinity: {}
 
+#Make files available in the container
+additionalVolumeMounts: []
+additionalVolumes: []
+
 settings: '{}'

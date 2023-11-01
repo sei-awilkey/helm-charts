@@ -81,6 +81,10 @@ tolerations: []
 
 affinity: {}
 
+additionalVolumeMounts: []
+
+additionalVoulumes: []
+
 env: 
   ## basehref is path to the app
   APP_BASEHREF: ""
